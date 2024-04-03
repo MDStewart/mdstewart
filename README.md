@@ -11,4 +11,7 @@ I received my BSc in Computer Science from The University of Mississippi in Dece
 
 When I moved back to Mississippi in 2023, I started a non-profit technology company, JXNMS Engineering Laboratory, to address the lack of "pragmatic programming" skills that were debilitating the growth of software development in the private sector. I continue to channel much of my accumulated knowledge into building programming for my nescient organization and assisting small businesses in better utilizing their technology integrations.
 
+## MDEQ - OIT - Applications Developer IV
 In my new position at MDEQ as an Applications Developer IV in the IT department, I will serve the public by applying my 10+ years of experience developing enterprise-level applications to the purpose of improving the efficiency of the software that our state agency relies on "to safeguard the health, safety, and welfare of present and future generations of Mississippians by conserving and improving our environment and fostering wise economic growth through focused research and responsible regulation."
+
+My current projects include maintaining and modernizing OLWR's MSWIS and Dam Safety applications, the Human Resources Management System, Geology's Flood Map Modernization and MDEM sites, and the Mining application.
